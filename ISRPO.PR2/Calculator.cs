@@ -10,7 +10,7 @@ namespace ISRPO.PR2
             CalculatorLibraryClass clc = new CalculatorLibraryClass();
             bool endApp = false;
                 // Отображаем название нашей программы
-                Console.WriteLine(" Консольный калькулятор в C#\r");
+                Console.WriteLine(" Консольный калькулятор в C#, добавленый в Github!\r");
                 Console.WriteLine(" ------------------------\n ");
 
             // Создаем цикл для работы с приложением
